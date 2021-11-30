@@ -14,8 +14,16 @@ Core concepts:
 
 ## WGAN-GP with MLPs on 1D distributions
 
+LayerNorm and two-sides gradient penalty were required for this to work nicely.
+
+### Normal
+
 <img src="gifs/normal.gif" alt="normal" width="500">
 
+### Uniform
+
 <img src="gifs/uniform.gif" alt="normal" width="500">
+
+### Bimodal
 
 <img src="gifs/bimodal.gif" alt="normal" width="500">
