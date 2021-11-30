@@ -19,7 +19,7 @@ We provide an (possibly) alternative result to the following work:
 - https://github.com/kremerj/gan: WGAN on 1d distribution; however, it uses one-sided gradient penalty and diverges after good initial learning
 - https://chunliangli.github.io/docs/dltp17gan.pdf: shows that WGAN cannot learn simple 1d distributions
 
-## WGAN-GP with MLPs on 1D distributions
+## WGAN-GP with MLPs on 1D distributions (GIFs)
 
 LayerNorm and two-sided gradient penalty were required for this to work nicely.
 
