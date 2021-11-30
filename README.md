@@ -1,4 +1,6 @@
-# Minimal WGAN in PyTorch
+# pytorch-wgan
+
+We provide a minimal WGAN implementation in PyTorch, and train it on 1d and image datasets.
 
 ## Learner's map
 
