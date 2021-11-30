@@ -1,6 +1,7 @@
-# pytorch-wgan
+# Minimal WGAN in PyTorch
 
-Core concepts:
+## Learner's map
+
 1. Kantorivich-Rubinstein theorem applied to Wasserstein distance
 2. WGAN training procedure with parametrized generator and critic
    - Weight clipping
