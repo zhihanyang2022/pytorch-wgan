@@ -11,3 +11,8 @@ Core concepts:
      - Architecture guidelines
      - Batch normalization
      - ConvTranspose
+
+## WGAN-GP with MLPs on 1D distributions
+
+![normal](gifs/normal.gif)
+
