@@ -14,5 +14,4 @@ Core concepts:
 
 ## WGAN-GP with MLPs on 1D distributions
 
-![normal](gifs/normal.gif)
-
+<img src="gifs/normal.gif" alt="normal" width="500">
